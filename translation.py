@@ -1,6 +1,6 @@
 class Translation(object):
     
-    START_TEXT =
+    START_TEXT = """{}"""
     
     
     
